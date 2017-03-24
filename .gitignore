@@ -1,0 +1,6 @@
+.dirname
+references/
+
+_site/
+.sass-cache/
+.jekyll-metadata

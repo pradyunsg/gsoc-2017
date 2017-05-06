@@ -5,7 +5,7 @@ tags: [status-update]
 author: Pradyun Gedam
 ---
 
-I have been selected as a student in GSoC 2017 - one of the 1,318 students worldwide! It's a pretty awesome feeling. I'm looking forward the work in the coming months!
+I have been selected as a student in GSoC 2017 - one of the 1,318 students worldwide! It's a pretty awesome feeling. I'm looking forward to the work in the coming months!
 
 ## Overview of the proposal
 

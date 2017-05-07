@@ -19,7 +19,7 @@ The full proposal text can be found [here][proposal-gist].
 
 ## Community Bonding Period
 
-I have examinations from 10th May till 25th May. Thus, I would be fairly inactive during the Community Bonding period. The exception to this would be the week of 15th May. I would have a 9 day break before my "Data Structures and Algorithms" paper - I should be able to get to some time around that time to try to clear out my existing PRs to pip on GitHub.
+I have examinations from 10th May till 25th May. Thus, I would be fairly inactive during the Community Bonding period. The exception to this would be the week of 15th May. I would have a 9 day break before my "Data Structures and Algorithms" paper - I should be able to get to some time in that week to try to clear out my existing PRs to pip on GitHub.
 
 I guess, that's all there is for now. :)
 

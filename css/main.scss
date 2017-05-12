@@ -5,8 +5,8 @@
 
 // Our variables
 // $base-font-family: 'Droid Sans', sans-serif;
-$base-font-family: 'Courier New', monospace;
-$code-font-family: Inconsolata, Monaco, Consolas, monospace;
+$base-font-family: Inconsolata, Monaco, Consolas, monospace;
+$code-font-family: $base-font-family;
 $base-font-size:   14px;
 $base-font-weight: 400;
 $small-font-size:  0.875rem;

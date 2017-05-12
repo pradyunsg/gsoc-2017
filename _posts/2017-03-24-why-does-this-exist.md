@@ -3,6 +3,7 @@ layout: post
 title: Why does this exist?
 tags: [about]
 author: Pradyun Gedam
+redirect_from: "/2017/03/24/why-does-this-exist/"
 ---
 
 This blog has been created to serve one (and only one) purpose - to serve as

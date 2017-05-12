@@ -8,7 +8,11 @@ kramdown:
   input: GFM
 permalink: pretty
 
-# Third-party services
-# just leave empty to disable it
+# Third-party services - just leave empty to disable it
 google_analytics: "UA-42240814-4"
 disqus_shortname:
+
+# Fancy URL stuff
+permalink: /:month/:day/:title/
+gems:
+  - jekyll-redirect-from

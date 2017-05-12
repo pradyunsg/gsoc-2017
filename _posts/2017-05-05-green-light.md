@@ -3,6 +3,7 @@ layout: post
 title: It's the Green Light!!
 tags: [status-update]
 author: Pradyun Gedam
+redirect_from: "/2017/05/05/green-light/"
 ---
 
 I have been selected as a student in GSoC 2017 - one of the 1,318 students worldwide! It's a pretty awesome feeling. I'm looking forward to the work in the coming months!

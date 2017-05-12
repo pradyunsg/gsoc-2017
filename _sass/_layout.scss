@@ -27,8 +27,8 @@
     margin: 1rem;
     box-sizing: border-box;
 
-    @include media-query($on-palm) {
-        padding: 0;
+    @include max-media-query($on-palm) {
+        padding: $spacing-unit ($spacing-unit * 0.375);
     }
 }
 /**
@@ -56,7 +56,7 @@
         font-size: $small-font-size;
         color: $grey-color;
     }
-    @include media-query($on-palm) {
+    @include max-media-query($on-palm) {
         time {
             display: block;
             font-size: $small-font-size;

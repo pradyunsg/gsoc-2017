@@ -1,5 +1,5 @@
-references/
-
+_references/
 _site/
-.sass-cache/
+
 .jekyll-metadata
+.sass-cache/

@@ -23,7 +23,7 @@ Part of the reason I haven't done a lot is because I had taken a week off, as in
 
 ## Work ahead
 
-By the time this week is done, Stage 1 has to be completed. This would mean a lot of small changes here and there in the codebase. It might get a little tight so I'm going to pull up my socks.
+By the time this fortnight is done, Stage 1 has to be completed. This would mean a lot of small changes here and there in the codebase. It might get a little tight so I'm going to pull up my socks.
 
 As yet, there have not been any behaviour changes to pip install - this would change starting week 4, when new behaviours would be added to pip install.
 

@@ -80,6 +80,10 @@
     line-height: 1;
 }
 
+.post-tag {
+    white-space: nowrap;
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;

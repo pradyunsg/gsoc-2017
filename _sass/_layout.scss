@@ -55,6 +55,7 @@
     time {
         font-size: $small-font-size;
         color: $grey-color;
+        padding-right: 1em;
     }
     @include max-media-query($on-palm) {
         time {

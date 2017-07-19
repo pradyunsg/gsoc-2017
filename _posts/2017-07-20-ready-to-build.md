@@ -7,7 +7,7 @@ author: Pradyun Gedam
 
 In the second half of the working period, I'll finally directly work on the new backtracking resolver for pip. 
 
-Another semester of college has also begun which means that I've had to more things happening through the day than I had during vacations. While the amount of time I've had available for working on the project has reduced, there has still has been more than enough to keep my work schedule on track - which it is.
+Another semester of college has begun which meant that I've had to more things happening through the day than I did during summer vacations. While the amount of time I've had available for working on the project has reduced, there has still has been more than enough to keep my work schedule on track - which it is now.
 
 ## Work Done
 
@@ -21,7 +21,7 @@ Another semester of college has also begun which means that I've had to more thi
 ## Work Ongoing
 
 - Breakup requirement preparation routine into smaller pieces
-  - Will be follow up by reducing coupling between Resolver and RequirementPreparer
+  - Will be followed up by reducing coupling between `Resolver` and `RequirementPreparer`
 - Get the sdist cache actually merged into master
   This is actually now overdue but I believe it's pretty much done so this should no longer be an issue.
 - Implementation of a testing bed for the resolver

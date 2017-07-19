@@ -1,0 +1,8 @@
+Respected Sir,
+
+As the first part of the project is fairly ready (`pip.resolve` holds all the resolution logic, the other stuff will move out of it soon), I want to looking into the backtracking resolver in greater detail. I've been looking into Stork (specifically in `stork-dependency.py`) and trying to understand what I can from its sources.
+
+What would be the right medium to ask doubts or have a discussion about the same? Further, would it be possible to have a real-time discussion in the coming week?
+
+Thanking You,
+Pradyun

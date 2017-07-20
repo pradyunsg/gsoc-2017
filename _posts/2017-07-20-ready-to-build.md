@@ -33,5 +33,3 @@ Another semester of college has begun which meant that I've had to more things h
 In the second half of the working period, I'm going to avoid doing side-tasks and dedicate the majority of my working time on actually implementing a good backtracking dependency resolver. Essentially any new work that I think of doing related to improving the code quality, the support infrastructure of the project, adding new features etc will be deferred until the resolver is implemented.
 
 Nearly all the preparatory work for actually implementing a resolver within pip is now done or awaiting feedback. Over the past few days, I've understood some interesting edge cases of the resolution problem and I am looking forward to (finally!) implementing the resolver in the remainder of the working period.
-
-

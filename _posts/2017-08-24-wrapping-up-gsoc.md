@@ -42,7 +42,7 @@ If, for some reason, someone wants to look into exactly what I've done as a part
 
 There was one deliverable in my project proposal - that pip would get a dependency resolver by the end of GSoC. I have not achieved that. 
 
-https://en.wikipedia.org/wiki/Hofstadter%27s_law
+<https://en.wikipedia.org/wiki/Hofstadter%27s_law>
 
 This has been due to the fact that the logic for which package and version gets installed was (and still partially is) spread out across multiple modules and sub-packages within pip. Bringing together all of that logic into a single module has been more effort than I had anticipated. There's still some parts of the codebase that have to be modified substantially to implement the dependency resolver in a reasonable manner within pip.
 
